@@ -1,0 +1,52 @@
+2024-12-10 11:12:13,343 - WARNING - High Memory usage: 84.5%
+2024-12-10 11:12:24,356 - WARNING - High Memory usage: 84.0%
+2024-12-10 11:12:35,362 - WARNING - High Memory usage: 83.4%
+2024-12-10 11:12:46,374 - WARNING - High Memory usage: 83.3%
+2024-12-10 11:12:57,385 - WARNING - High Memory usage: 83.4%
+2024-12-10 11:13:08,400 - WARNING - High Memory usage: 83.2%
+2024-12-10 11:13:19,409 - WARNING - High Memory usage: 83.2%
+2024-12-10 11:13:30,418 - WARNING - High Memory usage: 82.9%
+2024-12-10 11:13:41,426 - WARNING - High Memory usage: 82.8%
+2024-12-10 11:13:52,434 - WARNING - High Memory usage: 83.1%
+2024-12-10 11:14:03,446 - WARNING - High Memory usage: 85.3%
+2024-12-10 11:14:14,454 - WARNING - High Memory usage: 85.7%
+2024-12-10 11:14:25,463 - WARNING - High Memory usage: 85.2%
+2024-12-10 11:14:36,475 - WARNING - High Memory usage: 85.1%
+2024-12-10 11:14:47,483 - WARNING - High Memory usage: 83.4%
+2024-12-10 11:14:58,492 - WARNING - High Memory usage: 83.7%
+2024-12-10 11:15:09,510 - WARNING - High Memory usage: 83.7%
+2024-12-10 11:15:20,521 - WARNING - High Memory usage: 83.7%
+2024-12-10 11:15:31,535 - WARNING - High Memory usage: 83.6%
+2024-12-10 11:15:42,550 - WARNING - High Memory usage: 83.9%
+2024-12-10 11:15:53,552 - WARNING - High Memory usage: 84.4%
+2024-12-10 11:16:04,575 - WARNING - High Memory usage: 84.0%
+2024-12-10 11:16:15,583 - WARNING - High Memory usage: 84.0%
+2024-12-10 11:16:26,592 - WARNING - High Memory usage: 85.0%
+2024-12-10 11:16:37,599 - WARNING - High Memory usage: 86.1%
+2024-12-10 11:16:48,610 - WARNING - High Memory usage: 86.1%
+2024-12-10 11:16:59,624 - WARNING - High Memory usage: 86.3%
+2024-12-10 11:17:10,636 - WARNING - High Memory usage: 86.1%
+2024-12-10 11:17:21,646 - WARNING - High Memory usage: 84.0%
+2024-12-10 11:17:32,655 - WARNING - High Memory usage: 84.2%
+2024-12-10 11:17:43,664 - WARNING - High Memory usage: 84.2%
+2024-12-10 11:17:54,672 - WARNING - High Memory usage: 84.3%
+2024-12-10 11:18:05,686 - WARNING - High Memory usage: 84.5%
+2024-12-10 11:18:16,697 - WARNING - High Memory usage: 84.4%
+2024-12-10 11:21:19,243 - WARNING - High Memory usage: 85.6%
+2024-12-10 11:21:20,624 - INFO - Process: chrome.exe (PID: 5836) - Memory Usage: 3.85%
+2024-12-10 11:21:20,624 - INFO - Process: explorer.exe (PID: 22144) - Memory Usage: 3.83%
+2024-12-10 11:21:20,624 - INFO - Process: chrome.exe (PID: 8876) - Memory Usage: 3.42%
+2024-12-10 11:21:20,624 - INFO - Process: Code.exe (PID: 22668) - Memory Usage: 3.27%
+2024-12-10 11:21:20,624 - INFO - Process: MsMpEng.exe (PID: 5336) - Memory Usage: 3.26%
+2024-12-10 11:21:31,641 - WARNING - High Memory usage: 85.3%
+2024-12-10 11:21:32,250 - INFO - Process: explorer.exe (PID: 22144) - Memory Usage: 3.83%
+2024-12-10 11:21:32,250 - INFO - Process: chrome.exe (PID: 5836) - Memory Usage: 3.56%
+2024-12-10 11:21:32,250 - INFO - Process: chrome.exe (PID: 8876) - Memory Usage: 3.41%
+2024-12-10 11:21:32,250 - INFO - Process: Code.exe (PID: 22668) - Memory Usage: 3.32%
+2024-12-10 11:21:32,250 - INFO - Process: Code.exe (PID: 3248) - Memory Usage: 3.13%
+2024-12-10 11:21:43,255 - WARNING - High Memory usage: 85.4%
+2024-12-10 11:21:43,957 - INFO - Process: explorer.exe (PID: 22144) - Memory Usage: 3.85%
+2024-12-10 11:21:43,959 - INFO - Process: chrome.exe (PID: 5836) - Memory Usage: 3.80%
+2024-12-10 11:21:43,959 - INFO - Process: chrome.exe (PID: 8876) - Memory Usage: 3.42%
+2024-12-10 11:21:43,959 - INFO - Process: Code.exe (PID: 22668) - Memory Usage: 3.33%
+2024-12-10 11:21:43,959 - INFO - Process: Code.exe (PID: 3248) - Memory Usage: 3.14%
